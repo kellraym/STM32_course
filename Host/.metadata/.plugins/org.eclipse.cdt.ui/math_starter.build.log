@@ -1,0 +1,7 @@
+12:27:06 **** Incremental Build of configuration Debug for project math_starter ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o math_starter.exe main.o math.o 
+
+12:27:07 Build Finished. 0 errors, 0 warnings. (took 193ms)
+

@@ -1,0 +1,13 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include "math.h"
+
+int main()
+{
+	printf("Sum = %d", add(4, 6));
+	printf("difference = %d", subtract(4, 6));
+	printf("product = %d", multiply(4, 6));
+	printf("quotient = %f", divide(4, 6));
+
+	return 0;
+}
